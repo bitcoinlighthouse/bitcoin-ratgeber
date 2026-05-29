@@ -8,6 +8,8 @@ by Michael Wolf | [Bitcoinlighthouse](https://bitcoinlighthouse.de) | Second Edi
 
 🌍 **Languages:** [Deutsch](../README.md) · [English](README.md) · [Español](../es/README.md)
 
+📖 **Read online:** [ratgeber.bitcoinlighthouse.de/en/](https://ratgeber.bitcoinlighthouse.de/en/)
+
 ---
 
 This book explains, step by step, how you can truly own Bitcoin – stored safely, usable in daily life, without financial jargon.

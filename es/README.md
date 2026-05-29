@@ -8,6 +8,8 @@ por Michael Wolf | [Bitcoinlighthouse](https://bitcoinlighthouse.de) | Segunda e
 
 🌍 **Idiomas:** [Deutsch](../README.md) · [English](../en/README.md) · [Español](README.md)
 
+📖 **Leer online:** [ratgeber.bitcoinlighthouse.de/es/](https://ratgeber.bitcoinlighthouse.de/es/)
+
 ---
 
 Este libro explica, paso a paso, cómo poseer Bitcoin de verdad – guardado de forma segura, utilizable en el día a día, sin jerga financiera.

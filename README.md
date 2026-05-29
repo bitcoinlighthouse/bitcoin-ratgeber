@@ -8,6 +8,8 @@ von Michael Wolf | [Bitcoinlighthouse](https://bitcoinlighthouse.de) | Zweite Au
 
 🌍 **Sprachen / Languages / Idiomas:** [Deutsch](README.md) · [English](en/README.md) · [Español](es/README.md)
 
+📖 **Online lesen:** [ratgeber.bitcoinlighthouse.de](https://ratgeber.bitcoinlighthouse.de)
+
 ---
 
 Dieses Buch erklärt Schritt für Schritt, wie du Bitcoin wirklich besitzen kannst – sicher aufbewahrt, im Alltag nutzbar, ohne Finanzjargon.

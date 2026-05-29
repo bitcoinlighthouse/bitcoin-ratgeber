@@ -1,0 +1,16 @@
+[book]
+title = "Der Bitcoin-Ratgeber für Einsteiger und Aussteiger"
+authors = ["Michael Wolf"]
+description = "Dein praktischer Leitfaden zur Beschaffung und Nutzung von Bitcoin."
+language = "de"
+src = "."
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/bitcoinlighthouse/bitcoin-ratgeber"
+edit-url-template = "https://github.com/bitcoinlighthouse/bitcoin-ratgeber/edit/main/de/{path}"
+additional-js = ["language-picker.js"]
+
+[output.html.search]
+enable = true

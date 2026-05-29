@@ -1,0 +1,16 @@
+[book]
+title = "The Bitcoin Guide: Get In and Opt Out"
+authors = ["Michael Wolf"]
+description = "Your practical guide to acquiring and using Bitcoin."
+language = "en"
+src = "."
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/bitcoinlighthouse/bitcoin-ratgeber"
+edit-url-template = "https://github.com/bitcoinlighthouse/bitcoin-ratgeber/edit/main/en/{path}"
+additional-js = ["language-picker.js"]
+
+[output.html.search]
+enable = true
