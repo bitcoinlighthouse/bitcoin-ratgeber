@@ -1,5 +1,7 @@
 # Der Bitcoin-Ratgeber für Einsteiger und Aussteiger
 
+![Der Bitcoin-Ratgeber](cover.jpg)
+
 **Dein praktischer Leitfaden zur Beschaffung und Nutzung von Bitcoin**
 
 von Michael Wolf | [Bitcoinlighthouse](https://bitcoinlighthouse.de) | Zweite Auflage 2026
