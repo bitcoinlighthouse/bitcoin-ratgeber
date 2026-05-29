@@ -6,7 +6,7 @@
 
 por Michael Wolf | [Bitcoinlighthouse](https://bitcoinlighthouse.de) | Segunda edición 2026
 
-🌍 **Idiomas:** [Deutsch](../README.md) · [English](../book/README.md) · [Español](README.md)
+🌍 **Idiomas:** [Deutsch](../README.md) · [English](../en/README.md) · [Español](README.md)
 
 ---
 

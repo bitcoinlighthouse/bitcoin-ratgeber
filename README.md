@@ -6,7 +6,7 @@
 
 von Michael Wolf | [Bitcoinlighthouse](https://bitcoinlighthouse.de) | Zweite Auflage 2026
 
-🌍 **Sprachen / Languages / Idiomas:** [Deutsch](README.md) · [English](book/README.md) · [Español](libro/README.md)
+🌍 **Sprachen / Languages / Idiomas:** [Deutsch](README.md) · [English](en/README.md) · [Español](es/README.md)
 
 ---
 
@@ -14,16 +14,16 @@ Dieses Buch erklärt Schritt für Schritt, wie du Bitcoin wirklich besitzen kann
 
 ## Inhalt
 
-- [Einleitung](buch/einleitung.md)
-- [Kapitel 1 – Was ist Geld?](buch/kapitel-01-was-ist-geld.md)
-- [Kapitel 2 – Sei deine eigene Bank](buch/kapitel-02-sei-deine-eigene-bank.md)
-- [Kapitel 3 – Von der Börse zur eigenen Wallet](buch/kapitel-03-von-der-boerse-zur-eigenen-wallet.md)
-- [Kapitel 4 – Das Lightning-Netzwerk](buch/kapitel-04-das-lightning-netzwerk.md)
-- [Kapitel 5 – Sicherheit](buch/kapitel-05-sicherheit.md)
-- [Kapitel 6 – Bitcoin vererben](buch/kapitel-06-bitcoin-vererben.md)
-- [Kapitel 7 – Privacy](buch/kapitel-07-privacy.md)
-- [Kapitel 8 – Vernetze dich](buch/kapitel-08-vernetze-dich.md)
-- [Kapitel 9 – 21 Lektionen](buch/kapitel-09-21-lektionen.md)
+- [Einleitung](de/einleitung.md)
+- [Kapitel 1 – Was ist Geld?](de/kapitel-01-was-ist-geld.md)
+- [Kapitel 2 – Sei deine eigene Bank](de/kapitel-02-sei-deine-eigene-bank.md)
+- [Kapitel 3 – Von der Börse zur eigenen Wallet](de/kapitel-03-von-der-boerse-zur-eigenen-wallet.md)
+- [Kapitel 4 – Das Lightning-Netzwerk](de/kapitel-04-das-lightning-netzwerk.md)
+- [Kapitel 5 – Sicherheit](de/kapitel-05-sicherheit.md)
+- [Kapitel 6 – Bitcoin vererben](de/kapitel-06-bitcoin-vererben.md)
+- [Kapitel 7 – Privacy](de/kapitel-07-privacy.md)
+- [Kapitel 8 – Vernetze dich](de/kapitel-08-vernetze-dich.md)
+- [Kapitel 9 – 21 Lektionen](de/kapitel-09-21-lektionen.md)
 
 ## Print & E-Book
 
