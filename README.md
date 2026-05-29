@@ -6,6 +6,8 @@
 
 von Michael Wolf | [Bitcoinlighthouse](https://bitcoinlighthouse.de) | Zweite Auflage 2026
 
+🌍 **Sprachen / Languages / Idiomas:** [Deutsch](README.md) · [English](book/README.md) · [Español](libro/README.md)
+
 ---
 
 Dieses Buch erklärt Schritt für Schritt, wie du Bitcoin wirklich besitzen kannst – sicher aufbewahrt, im Alltag nutzbar, ohne Finanzjargon.
