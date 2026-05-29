@@ -1,4 +1,4 @@
-<img width="1600" height="2560" alt="buch_cover_der_bitcoin_ratgeber" src="https://github.com/user-attachments/assets/741fc5f3-4d5a-457b-b2f0-bcbab1b5c438" />
+<img width="300" alt="Der Bitcoin-Ratgeber" src="https://github.com/user-attachments/assets/741fc5f3-4d5a-457b-b2f0-bcbab1b5c438" />
 
 # Der Bitcoin-Ratgeber für Einsteiger und Aussteiger
 
