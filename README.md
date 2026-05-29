@@ -1,6 +1,6 @@
-# Der Bitcoin-Ratgeber für Einsteiger und Aussteiger
+<img width="1600" height="2560" alt="buch_cover_der_bitcoin_ratgeber" src="https://github.com/user-attachments/assets/741fc5f3-4d5a-457b-b2f0-bcbab1b5c438" /># Der Bitcoin-Ratgeber für Einsteiger und Aussteiger
 
-![Der Bitcoin-Ratgeber](cover.jpg)
+![Der Bitcoin-Ratgeber](buch_cover_der_bitcoin_ratgeber.jpg)
 
 **Dein praktischer Leitfaden zur Beschaffung und Nutzung von Bitcoin**
 
