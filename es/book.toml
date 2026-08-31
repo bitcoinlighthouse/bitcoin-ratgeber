@@ -1,0 +1,16 @@
+[book]
+title = "La guía Bitcoin: Dentro de Bitcoin, fuera del sistema"
+authors = ["Michael Wolf"]
+description = "Tu guía práctica para adquirir y usar Bitcoin."
+language = "es"
+src = "."
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/bitcoinlighthouse/bitcoin-ratgeber"
+edit-url-template = "https://github.com/bitcoinlighthouse/bitcoin-ratgeber/edit/main/es/{path}"
+additional-js = ["language-picker.js"]
+
+[output.html.search]
+enable = true
